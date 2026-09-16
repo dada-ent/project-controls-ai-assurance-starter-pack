@@ -2,7 +2,7 @@
 
 **Use AI to prepare the evidence. Keep the project decision with the accountable human.**
 
-Free, reusable Project Controls toolkit with editable templates and worked examples for teams using AI to extract, compare, reconcile, cite, flag and prepare project evidence under a defined assurance process.
+Free, reusable Project Controls AI assurance toolkit: 17 editable templates, worked CE-018 examples, Power BI/Word/Excel outputs and control guidance for evidence-led, human-approved cost, schedule, risk, change, reporting and stage-gate assurance..
 
 This repository accompanies DADA's CaSA webinar **Controlling AI, Data, Integration & Automation Programmes – A Practical Project Controls Toolkit**.
 
