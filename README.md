@@ -114,7 +114,6 @@ The worked example is **Fictional Demonstration Data**. The Westbridge Station p
 ```text
 .
 ├── README.md
-├── CHANGELOG.md
 ├── CITATION.cff
 ├── CONTRIBUTING.md
 ├── SECURITY.md
