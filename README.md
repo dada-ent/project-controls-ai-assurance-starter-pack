@@ -1,2 +1,2 @@
 # project-controls-ai-assurance-starter-pack
-Free reusable templates for evidence-led, human-approved AI-assisted Project Controls assurance — with worked examples and Power BI/Word/Excel outputs.
+Free, reusable Project Controls AI assurance toolkit: 17 editable templates, worked CE-018 examples, Power BI/Word/Excel outputs and control guidance for evidence-led, human-approved cost, schedule, risk, change, reporting and stage-gate assurance.
