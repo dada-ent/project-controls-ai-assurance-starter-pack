@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Project Controls AI Assurance Starter Pack"
+message: "If you reference this toolkit, please cite the repository and DADA Enterprises Limited."
+type: dataset
+authors:
+  - family-names: "Melwani"
+    given-names: "Sachin"
+version: "1.0"
+date-released: "2026-08-25"
+url: "https://www.big-dada.co.uk/"
